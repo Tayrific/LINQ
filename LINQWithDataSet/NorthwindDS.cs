@@ -1,0 +1,7 @@
+﻿namespace LINQWithDataSet
+{
+}
+
+namespace LINQWithDataSet
+{
+}

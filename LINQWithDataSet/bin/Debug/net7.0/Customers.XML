@@ -1,0 +1,10 @@
+<Customers>
+	<Customer CustomerID="ALFKI" City="Berlin" ContactName="Maria Anders" />
+	<Customer CustomerID="BONAP" City="Marseille" ContactName="Laurence Lebihan" />
+	<Customer CustomerID="CONSH" City="London" ContactName="Elizabeth Brown" />
+	<Customer CustomerID="EASTC" City="London" ContactName="Ann Devon" />
+	<Customer CustomerID="FRANS" City="Torino" ContactName="Paolo Accorti" />
+	<Customer CustomerID="LONEP" City="Portland" ContactName="Fran Wilson" />
+	<Customer CustomerID="NORTS" City="London" ContactName="Simon Crowther" />
+	<Customer CustomerID="THEBI" City="Portland" ContactName="Liz Nixon" />
+</Customers>
